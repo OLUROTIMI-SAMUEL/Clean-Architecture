@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovieDomain", "CleanMovieDomain\CleanMovieDomain.csproj", "{22BCA304-DC4F-494B-9FCD-D93CBE8E26EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Application", "CleanMovie.Application\CleanMovie.Application.csproj", "{95205C9B-AD14-4957-A84B-68D2E1596B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Infrastructure", "CleanMovie.Infrastructure\CleanMovie.Infrastructure.csproj", "{A6A0AEDA-6E69-47E3-8354-25D776FFF613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.API", "CleanMovie.API\CleanMovie.API.csproj", "{64EE4CA1-30F6-4ACD-80EB-A3738E2EE564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22BCA304-DC4F-494B-9FCD-D93CBE8E26EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BCA304-DC4F-494B-9FCD-D93CBE8E26EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BCA304-DC4F-494B-9FCD-D93CBE8E26EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BCA304-DC4F-494B-9FCD-D93CBE8E26EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95205C9B-AD14-4957-A84B-68D2E1596B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95205C9B-AD14-4957-A84B-68D2E1596B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95205C9B-AD14-4957-A84B-68D2E1596B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95205C9B-AD14-4957-A84B-68D2E1596B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A0AEDA-6E69-47E3-8354-25D776FFF613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A0AEDA-6E69-47E3-8354-25D776FFF613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A0AEDA-6E69-47E3-8354-25D776FFF613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A0AEDA-6E69-47E3-8354-25D776FFF613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64EE4CA1-30F6-4ACD-80EB-A3738E2EE564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EE4CA1-30F6-4ACD-80EB-A3738E2EE564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EE4CA1-30F6-4ACD-80EB-A3738E2EE564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EE4CA1-30F6-4ACD-80EB-A3738E2EE564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B5D16B-7C22-4CB8-A379-90DD0C4C0E8B}
+	EndGlobalSection
+EndGlobal

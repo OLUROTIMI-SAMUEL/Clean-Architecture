@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pcHw1/ipMxOnt8ruiGa1nQr/BT9oacOFVGhE4IiBQxm7IGpazO7bkL71EmAI/fbKp2Dh0vB+nlWb1uKjzwaGmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAMUEL OLUROTIMI\\source\\repos\\CleanMovieDomain\\CleanMovieDomain\\CleanMovieDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAMUEL OLUROTIMI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\SAMUEL OLUROTIMI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\SAMUEL OLUROTIMI\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
